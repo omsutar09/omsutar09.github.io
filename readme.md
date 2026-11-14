@@ -1,6 +1,6 @@
 # Omkar's Resume
 
-A digital resume website built based on the content from my personal REAL [resume](./assets/resume.pdf)
+A digital resume website built based on the content from my personal REAL [resume](./assets/Omkar_Sutar_CV.pdf)
 
 ## Dark Mode Preview
 

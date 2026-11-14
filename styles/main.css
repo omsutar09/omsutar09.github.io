@@ -278,3 +278,27 @@ a {
   top: 33px;
   font-size: 1.08em;
 }
+
+.btn--resume {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 12px;
+  padding: 8px 16px;
+  border: 1px solid var(--mainLinkColor);
+  border-radius: 6px;
+  color: var(--mainLinkColor);
+  font-weight: 500;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.btn--resume:hover {
+  background: var(--mainLinkColor);
+  color: var(--mainBgColor);
+}
+
+.btn--resume svg,
+.btn--resume svg * {
+  color: inherit;
+}
