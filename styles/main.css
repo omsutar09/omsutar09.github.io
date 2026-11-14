@@ -128,10 +128,6 @@ a {
   left: 0;
 }
 
-.list--check li::before {
-  content: "✔️";
-}
-
 .list--achieve li::before {
   content: "🚀";
 }
