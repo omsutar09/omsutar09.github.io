@@ -2,17 +2,11 @@
 
 A digital resume website built based on the content from my personal REAL [resume](./assets/Omkar_Sutar_CV.pdf)
 
-## Dark Mode Preview
-
-<img src="assets\images\dark mode preview.PNG">
-
-## Light Mode Preview
-
-<img src="assets\images\light mode preview.PNG">
+Live at **https://omsutar09.github.io**, served by GitHub Pages from the root of `main`.
 
 ## Switching between color themes
 
-This website has no auto toggle theme switcher, therefor to change themes you must manual go into `/styles/main.css` and the css variables to use either theme. Default is dark, so do the following here:
+This website has no auto toggle theme switcher, so to change themes, edit `/styles/main.css` and set the CSS variables for either theme. Default is dark, so do the following here:
 
 ```css
 --mainTextColor: var(--mainTextColor-light);
